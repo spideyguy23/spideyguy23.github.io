@@ -1,1 +1,5 @@
-# spideyguy23.github.io
+spideyguy23.github.io
+=========================
+
+Personal website.
+Inspired by akshayr.me
