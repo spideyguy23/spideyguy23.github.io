@@ -60,7 +60,7 @@ background: linear-gradient(to right, #2ebf91, #8360c3);
 	}
 }
 
-#resume-button, #linkedin-button, #email-button, #github-button, #blog-button {
+#resume-button, #linkedin-button, #email-button, #github-button {
 	color: white;
 	font-size: 1.3rem;
 }
@@ -71,18 +71,13 @@ background: linear-gradient(to right, #2ebf91, #8360c3);
 }
 
 #linkedin-button {
-	-webkit-animation-delay: 1.6s; /* Chrome, Safari, Opera */
-    animation-delay: 1.6s;
+	-webkit-animation-delay: 1.7s; /* Chrome, Safari, Opera */
+    animation-delay: 1.7s;
 }
 
 #resume-button {
-	-webkit-animation-delay: 1.9s; /* Chrome, Safari, Opera */
-    animation-delay: 1.9s;
-}
-
-#blog-button {
-	-webkit-animation-delay: 2.2s; /* Chrome, Safari, Opera */
-    animation-delay: 2.2s;
+	-webkit-animation-delay: 2.1s; /* Chrome, Safari, Opera */
+    animation-delay: 2.1s;
 }
 
 #github-button {
